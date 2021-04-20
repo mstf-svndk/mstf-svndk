@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mstf-svndk
+- 👋 Hi, I’m Mustafa Sevindik
 - 👀 I’m interested in ... --Machine Learning, Deep Learning, Artificial İntelligence--
 - 🌱 I’m currently learning ... Artificial İntelligence
 - 💞️ I’m looking to collaborate on ... 
